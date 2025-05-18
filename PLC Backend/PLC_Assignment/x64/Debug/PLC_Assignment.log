@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  GTester_x64_Debug.lib(GalilTester.obj) : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Galil.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+Embedded_funcs_x64_Debug.lib(Embedded_funcs.obj) : warning LNK4099: PDB '' was not found with 'Embedded_funcs_x64_Debug.lib(Embedded_funcs.obj)' or at ''; linking object as if no debug info
+Embedded_funcs_x64_Debug.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'Embedded_funcs_x64_Debug.lib(pch.obj)' or at ''; linking object as if no debug info
+GTester_x64_Debug.lib(GalilTester.obj) : warning LNK4099: PDB '' was not found with 'GTester_x64_Debug.lib(GalilTester.obj)' or at ''; linking object as if no debug info
+  PLC_Assignment.vcxproj -> C:\Users\vince\OneDrive - UNSW\3. UNSW THIRD YEAR\3. MTRN3500\Assignment 1 - PLC\PLC_Assignment\executables\PLC_Assignment.exe

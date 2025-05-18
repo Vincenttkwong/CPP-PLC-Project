@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PLC_Assignment", "PLC_Assignment\PLC_Assignment.vcxproj", "{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Debug|x64.ActiveCfg = Debug|x64
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Debug|x64.Build.0 = Debug|x64
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Debug|x86.Build.0 = Debug|Win32
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Release|x64.ActiveCfg = Release|x64
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Release|x64.Build.0 = Release|x64
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Release|x86.ActiveCfg = Release|Win32
+		{F153CF01-AC19-457E-9FC7-3B6D43FE9F4A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F9EF56-A23A-4F9D-A567-269AF5162C39}
+	EndGlobalSection
+EndGlobal
